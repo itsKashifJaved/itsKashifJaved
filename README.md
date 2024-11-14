@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Enhancing backend systems and optimizing API management at StaunchTie Innovations, focusing on secure and high-performance server environments.<br><br>🤝 I’m looking to collaborate on: Open-source .NET projects, especially those involving backend development, API integration, and database optimization.<br><br>🧠 I’m looking for help with: Improving my knowledge of emerging database security practices and exploring advanced techniques in server management.<br><br>🌱 I’m currently learning: Advanced data protection techniques, cloud deployment practices, and optimizing API scalability.<br><br>💬 Ask me about: Backend development, ASP.NET, API design, SQL Server optimization, and how to efficiently manage server environments.<br><br>⚡ Fun fact: I've worked across multiple industries, creating database and backend solutions that seamlessly integrate with complex systems, all while prioritizing data security and reliability.
 
 
